@@ -2,6 +2,7 @@
   <configuration default="false" name="app-start" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="com.springbootapiaws.Application" />
     <module name="springboot-api-aws" />
+    <shortenClasspath name="ARGS_FILE" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.springbootapiaws.*" />
